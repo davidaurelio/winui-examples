@@ -1,0 +1,5 @@
+namespace winui_scrolling {
+[default_interface] runtimeclass MainWindow : Microsoft.UI.Xaml.Window {
+  MainWindow();
+}
+}  // namespace winui_scrolling
