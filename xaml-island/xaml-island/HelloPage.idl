@@ -1,0 +1,5 @@
+namespace xaml_island {
+[default_interface] runtimeclass HelloPage : Microsoft.UI.Xaml.Controls.Page {
+  HelloPage();
+}
+}  // namespace xaml_island
