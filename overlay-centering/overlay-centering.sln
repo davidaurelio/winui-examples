@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "overlay-centering (Package)", "overlay-centering (Package)\overlay-centering (Package).wapproj", "{93320208-CEE4-44BF-9BEF-7548F4F886A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overlay-centering", "overlay-centering\overlay-centering.vcxproj", "{F22167E9-0069-4D98-8662-E16CEBF4B916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|arm64.ActiveCfg = Debug|arm64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|arm64.Build.0 = Debug|arm64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|arm64.Deploy.0 = Debug|arm64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|x64.ActiveCfg = Debug|x64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|x64.Build.0 = Debug|x64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|x64.Deploy.0 = Debug|x64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|x86.ActiveCfg = Debug|x86
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|x86.Build.0 = Debug|x86
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Debug|x86.Deploy.0 = Debug|x86
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|arm64.ActiveCfg = Release|arm64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|arm64.Build.0 = Release|arm64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|arm64.Deploy.0 = Release|arm64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|x64.ActiveCfg = Release|x64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|x64.Build.0 = Release|x64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|x64.Deploy.0 = Release|x64
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|x86.ActiveCfg = Release|x86
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|x86.Build.0 = Release|x86
+		{93320208-CEE4-44BF-9BEF-7548F4F886A1}.Release|x86.Deploy.0 = Release|x86
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Debug|arm64.ActiveCfg = Debug|arm64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Debug|arm64.Build.0 = Debug|arm64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Debug|x64.ActiveCfg = Debug|x64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Debug|x64.Build.0 = Debug|x64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Debug|x86.ActiveCfg = Debug|Win32
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Debug|x86.Build.0 = Debug|Win32
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Release|arm64.ActiveCfg = Release|arm64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Release|arm64.Build.0 = Release|arm64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Release|x64.ActiveCfg = Release|x64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Release|x64.Build.0 = Release|x64
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Release|x86.ActiveCfg = Release|Win32
+		{F22167E9-0069-4D98-8662-E16CEBF4B916}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41CE851F-B951-4A07-83A6-36CD02765DBB}
+	EndGlobalSection
+EndGlobal
